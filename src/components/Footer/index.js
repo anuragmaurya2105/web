@@ -34,7 +34,7 @@ class Footer extends Component {
             href="https://animedl.online"
             target="_blank"
           >
-            {`© 2021 Copyright: Tanjirou Ji - v${version}`}
+            {`© 2022 Copyright: Tanjirou Ji - v${version}`}
           </a>
         </footer>
       </div>
