@@ -21,9 +21,9 @@ class Footer extends Component {
     return (
       <div style={{ paddingTop: "75px" }}>
         <footer className={classes.footer__container} id="footer__container">
-          <a href="https://chat.whatsapp.com/FbXxrClsubrDKeqKA5rEKk" target="">
+          <a href="https://chat.whatsapp.com/FbXxrClsubrDKeqKA5rEKk" target="_blank">
             <img
-              src="https://github.com/appicons/Whatsapp/blob/master/icons/whatsapp_194x194.png"
+              src="/images/github.gif"
               className="footer__github"
               height="64px"
               alt="github-logo"
