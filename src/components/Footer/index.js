@@ -23,7 +23,7 @@ class Footer extends Component {
         <footer className={classes.footer__container} id="footer__container">
           <a href="https://chat.whatsapp.com/FbXxrClsubrDKeqKA5rEKk" target="_blank">
             <img
-              src="/images/github.gif"
+              src="https://github.com/libDrive/web/blob/main/public/images/github.gif"
               className="footer__github"
               height="64px"
               alt="github-logo"
